@@ -48,7 +48,7 @@ body {
   color: #42515f;
 }
 
-/* UC 2 */
+
 
 .form-content {
   min-height: calc(100% - 80px);
@@ -104,7 +104,7 @@ label {
   font-size: 16px;
   color: #42515f;
   opacity: 1;
-  font-family: Roboto;
+  font-family : Roboto;
 }
 
 .input {
@@ -116,7 +116,6 @@ label {
   
 }
 
-/* UC 3 */
 
 .profile-radio-content {
   display: flex;
@@ -135,7 +134,7 @@ label {
   margin-left: 12px;
 }
 
-/* UC 5 */
+
 
 select {
   padding: 12px;
@@ -149,7 +148,7 @@ select {
   margin-right: 20px;
 }
 
-/* UC 6 */
+
 
 .buttonParent {
   display: flex;
@@ -199,9 +198,9 @@ select {
 
 error-output{
   margin-left: 10px;
-  font-size: 12px;
-  font-style: italic;
-  color: red;
+  font-size: 15px;
+  font-style:normal;
+  color:tomato;
   white-space: nowrap;
 }
 
